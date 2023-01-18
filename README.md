@@ -4,9 +4,9 @@ A tool for extracting information from a PCAP file.
 
 Requirements
 
-- Scapy
-- argparse
--OpenSSL
+Scapy
+argparse
+OpenSSL
 
 Usage
 python pcap_info_extractor.py <pcapfile> [-s <src IP>] [-d <dst IP>] [-o <output file>]
